@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">10118355</string>
+    <string name="address">Alamat Wisata</string>
+    <string name="profil">Profil</string>
+    <string name="daftar_wisata">Daftar Wisata</string>
+    <string name="Nama">Siti Alawiah</string>
+    <string name="Kelas">IF 9</string>
+    <string name="NIM">10118355</string>
+    <string name="lokasi_maps">Lokasi di Maps</string>
+    <string name="menu_map">Map</string>
+    <string name="label_map_terrain">terrain</string>
+    <string name="label_map_hybrid">hybrid</string>
+    <string name="label_map_satelite">satellite</string>
+    <string name="label_map_normal">normal</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832089893979",
+    "firebase_url": "https://uasakb-1a248-default-rtdb.firebaseio.com",
+    "project_id": "uasakb-1a248",
+    "storage_bucket": "uasakb-1a248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832089893979:android:5be32b841b08ec58af637e",
+        "android_client_info": {
+          "package_name": "com.sitia.uas_akb_if9_10118355"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832089893979-scj4712crjjbhu20ckrvbimf3bci9gn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1ZLPCoPllTorl4JT-cRi2VCEsF13OB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832089893979-scj4712crjjbhu20ckrvbimf3bci9gn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
